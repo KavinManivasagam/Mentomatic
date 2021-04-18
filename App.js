@@ -17,7 +17,7 @@ export default class AppContainer extends React.Component {
         },
       
           {
-            initialRouteName: 'home',
+            initialRouteName: 'ToDo',
             headerMode: 'none'
           });
   
